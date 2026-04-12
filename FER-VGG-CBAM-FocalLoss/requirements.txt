@@ -1,0 +1,10 @@
+tensorflow>=2.12.0
+dlib
+opencv-python
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+flask-cors
+pyngrok
