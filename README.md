@@ -36,7 +36,7 @@ pipeline trained on FER2013.
 
 1. Open **FER_Inference.ipynb** and run the Flask backend cell
 2. Copy the ngrok URL that appears
-3. Open the [live demo](https://hussainsakinah2611.github.io/FER-VGG-CBAM-FocalLoss/)
+3. Open the [live demo](https://hussainsakinah.github.io/FER-Facial-Emotion-Recognition/)
 4. Paste the URL into the connection bar and click Test
 5. Upload any photo
 
